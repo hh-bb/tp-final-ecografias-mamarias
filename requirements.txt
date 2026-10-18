@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+opencv-python-headless
+imagehash
+pillow
+kagglehub
+tensorflow>=2.16
