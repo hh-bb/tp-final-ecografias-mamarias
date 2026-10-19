@@ -1,5 +1,5 @@
 # TP Final Integrador — Clasificación de ecografías mamarias (BUSI)
-Grupo 38 · Diplomatura en Ciencia de Datos y Análisis Avanzado · UTN BA
+Grupo 38 · Juan Ignacio Matarrese, Jonathan Perez Laurinavicius, Horacio Bonafina · Diplomatura en Ciencia de Datos y Análisis Avanzado · UTN BA
 
 ## Qué hace
 Clasifica ecografías en Normal / Benigno / Maligno. Criterio rector: **Recall de la clase Maligno ≥ 90 %** (minimizar falsos negativos),
