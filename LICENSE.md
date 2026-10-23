@@ -22,13 +22,7 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+*Disclaimer:* The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
 
 ### Report and Figures (CC BY 4.0)
 The **report text and the figures** in the `figuras/` folder are released under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
@@ -53,12 +47,16 @@ Se concede permiso, libre de cargo, a cualquier persona que obtenga una copia de
 
 El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o partes sustanciales del Software.
 
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN DE CONTRATO, AGRAVIO O CUALQUIER OTRO MOTIVO, SURGIDO DE O EN CONEXIÓN CON EL SOFTWARE O EL USO U OTROS TRATOS EN EL SOFTWARE.
+*Aviso legal:* El software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo pero no limitado a garantías de comercialización, idoneidad para un propósito particular y no infracción. En ningún caso los autores o titulares del copyright serán responsables de ninguna reclamación, daño u otra responsabilidad, ya sea en una acción de contrato, agravio o cualquier otro motivo, surgido de o en conexión con el software o el uso u otros tratos en el software.
 
 ### Informe y Figuras (CC BY 4.0)
 El **texto del informe y las figuras** de la carpeta `figuras/` se publican bajo la licencia [Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.es).
 
 ### Materiales de Terceros y Dataset
+Este repositorio **no redistribuye** el dataset ni material de terceros:
+* El dataset **BUSI** (Al-Dhabyani et al., 2020) está publicado en Kaggle bajo CC0 y se descarga al ejecutar. Si usás los datos, citá a los autores de BUSI.
+* Los **pesos ImageNet de ResNet50** provienen de Keras Applications bajo sus propios términos.
+* Las obras citadas en las referencias pertenecen a sus respectivos autores.
 Este repositorio **no redistribuye** el dataset ni material de terceros:
 * El dataset **BUSI** (Al-Dhabyani et al., 2020) está publicado en Kaggle bajo CC0 y se descarga al ejecutar. Si usás los datos, citá a los autores de BUSI.
 * Los **pesos ImageNet de ResNet50** provienen de Keras Applications bajo sus propios términos.
